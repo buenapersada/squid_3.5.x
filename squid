@@ -1,4 +1,4 @@
-#! /bin/shp
+#! /bin/sh
 # 
 # squid32012                Startup script for the SQUID HTTP proxy-cache.
 #
